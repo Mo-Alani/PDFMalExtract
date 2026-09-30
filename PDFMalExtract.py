@@ -1,7 +1,7 @@
 '''
 *****************************
 
-PDFMalExtract v0.1
+PDFMalExtract v0.1.1
 Author: Mohammed M. Alani
 https://github.com/Mo-Alani/
 
